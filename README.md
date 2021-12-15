@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davi Santoro Stocco</h1>
-<h3 align="center">A backend developer from Brazil, passionate about challenges, technology and innovation</h3>
+<h3 align="left">A backend developer from Brazil, passionate about challenges, technology and innovation</h3>
+<h3 align="left">Frontend adventurer and startup enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davistocco&label=Profile%20views&color=0e75b6&style=flat" alt="davistocco" /> </p>
 
@@ -13,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **Node and React projects**
 
-- 📫 How to reach me **davistocco14@gmail.com**
+- 📫 How to reach me: **davistocco14@gmail.com**
 
-- ⚡ Fun fact **I like to produce comedy skits with my friends**
+- ⚡ Fun fact: **I like to produce comedy skits with my friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
