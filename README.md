@@ -34,6 +34,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davistocco&show_icons=true&locale=en" alt="davistocco" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davistocco&show_icons=true&locale=en&theme=nightowl" alt="davistocco" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davistocco&show_icons=true&locale=en&layout=compact" alt="davistocco" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davistocco&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="davistocco" /></p>
