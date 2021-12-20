@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **SmartEnvios, a logistics startup**
 
-- 🌱 I’m currently learning **Microservices and NoSQL**
+- 🌱 I’m currently learning **Microservices**
 
-- 👯 I’m looking to collaborate on **Node and React projects**
+<!-- - 👯 I’m looking to collaborate on **Node and React projects** -->
 
 - 📫 How to reach me: **davistocco14@gmail.com**
 
