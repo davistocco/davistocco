@@ -13,7 +13,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **Node and React projects** -->
 
-- 📫 How to reach me: **davistocco14@gmail.com**
+- 📫 How to reach me: **[LinkedIn - Davi Santoro Stocco](https://linkedin.com/in/davistocco)**
 
 - ⚡ Fun fact: **I like to produce comedy skits with my friends**
 
