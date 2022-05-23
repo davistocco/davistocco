@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/davistocco_" target="blank"><img src="https://img.shields.io/twitter/follow/davistocco_?logo=twitter&style=for-the-badge" alt="davistocco_" /></a> </p>
 
-- 🔭 I’m currently working on **SmartEnvios, a logistics startup**
+- 🚚 I’m currently working on **SmartEnvios, a logistics startup**
 
 - 🌱 I’m currently learning **Microservices**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **[LinkedIn - Davi Santoro Stocco](https://linkedin.com/in/davistocco)**
 
-- ⚡ Fun fact: **I like to produce comedy skits with my friends**
+<!-- - ⚡ Fun fact: **I like to produce comedy skits with my friends** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
