@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 14 mins    ███████████████▓░░░░░░░░░   62.85 %
-JSON         30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
-Bash         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
