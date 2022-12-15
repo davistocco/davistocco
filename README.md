@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davistocco" alt="davistocco" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/davistocco_" target="blank"><img src="https://img.shields.io/twitter/follow/davistocco_?logo=twitter&style=for-the-badge" alt="davistocco_" /></a> </p>
-
 - 🚚 I’m currently working on **SmartEnvios, a logistics startup**
 
 - 🌱 I’m currently learning **OAuth2**
@@ -18,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/davistocco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davistocco_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davistocco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davistocco" height="30" width="40" /></a>
 <a href="https://instagram.com/davistocco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davistocco_" height="30" width="40" /></a>
 <a href="https://medium.com/davistocco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="davistocco" height="30" width="40" /></a>
@@ -38,9 +35,3 @@ Other        16 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-### 📈 My GitHub stats:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davistocco&show_icons=true&locale=en&theme=nightowl" alt="davistocco" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davistocco&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="davistocco" /></p>
