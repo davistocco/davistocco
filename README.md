@@ -9,13 +9,12 @@
 
 - 🚚 I’m currently working on **SmartEnvios, a logistics startup**
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **OAuth2**
 
 <!-- - 👯 I’m looking to collaborate on **Node and React projects** -->
 
 - 📫 How to reach me: **[LinkedIn - Davi Santoro Stocco](https://linkedin.com/in/davistocco)**
 
-<!-- - ⚡ Fun fact: **I like to produce comedy skits with my friends** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
