@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davistocco&label=Profile%20views&color=0e75b6&style=flat" alt="davistocco" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davistocco" alt="davistocco" /></a> </p>
- -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davistocco" alt="davistocco" /></a> </p>
+
 - 🚚 I’m currently working on **SmartEnvios, a logistics startup**
 
 - 🌱 I’m currently learning **OAuth2**
@@ -18,9 +18,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/davistocco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davistocco" height="30" width="40" /></a>
 <a href="https://instagram.com/davistocco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davistocco_" height="30" width="40" /></a>
-<a href="https://medium.com/davistocco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="davistocco" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/davistocco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="davistocco" height="30" width="40" /></a>
 </p>
-
+ -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
