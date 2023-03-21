@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davistocco&label=Profile%20views&color=0e75b6&style=flat" alt="davistocco" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davistocco" alt="davistocco" /></a> </p>
-
 - 🚚 I’m currently working on **SmartEnvios, a logistics startup**
 
 - 🌱 I’m currently learning **OAuth2**
