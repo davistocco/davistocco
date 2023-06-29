@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Davi Santoro Stocco</h3>
-<p align="left">A fullstack developer from Brazil. Passionate about challenges, technology and innovation.</p>
+<p align="left">A fullstack developer passionate about challenges, technology and innovation.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davistocco&label=Profile%20views&color=0e75b6&style=flat" alt="davistocco" /> </p>
 
