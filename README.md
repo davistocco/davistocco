@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davistocco&label=Profile%20views&color=0e75b6&style=flat" alt="davistocco" /> </p>
 
-- 🚚 I’m currently working on **SmartEnvios, a logistics startup**
+- 🚚 I’m currently working on **Krykto, a cryptocurrency startup**
 
-- 🌱 I’m currently learning **OAuth2**
+<!-- - 🌱 I’m currently learning **OAuth2** -->
 
 <!-- - 👯 I’m looking to collaborate on **Node and React projects** -->
 
