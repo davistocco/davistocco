@@ -1,6 +1,8 @@
 <h3 align="left">Hi 👋, I'm Davi Santoro Stocco</h3>
 <p align="left">A fullstack developer passionate about challenges, technology and innovation.</p>
 
+> Less is more
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davistocco&label=Profile%20views&color=0e75b6&style=flat" alt="davistocco" /> </p>
 
 - 🚚 I’m currently working on **Krykto, a cryptocurrency startup**
