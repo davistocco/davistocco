@@ -1,5 +1,4 @@
 <h3 align="left">Hi 👋, I'm Davi Santoro Stocco</h3>
-<p align="left">A fullstack developer passionate about challenges, technology and innovation.</p>
 
 > "You miss 100% of the shots you don't take. -Wayne Gretzky" -Michael Scott
 
