@@ -44,11 +44,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       5 hrs 59 mins   ███████████████████▓░░░░░   78.44 %
-YAML             42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-ActionScript 3   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-JavaScript       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Objective-C      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+TypeScript       1 hr 58 mins    █████████████████▒░░░░░░░   68.86 %
+ActionScript 3   24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+JavaScript       19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+Objective-C      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+TSQL             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
