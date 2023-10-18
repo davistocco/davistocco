@@ -44,11 +44,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       1 hr 58 mins    █████████████████▒░░░░░░░   68.86 %
-ActionScript 3   24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-JavaScript       19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-Objective-C      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-TSQL             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+TypeScript       56 mins         ██████████████░░░░░░░░░░░   56.47 %
+JavaScript       19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+ActionScript 3   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+Objective-C      5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Assembly         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
