@@ -30,11 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        1 hr 5 mins     ██████████████████▒░░░░░░   73.00 %
-Bash              21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.47 %
-Protocol Buffer   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JSON              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Terraform         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript        42 mins         ███████████████████████▒░   93.94 %
+Protocol Buffer   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Bash              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
