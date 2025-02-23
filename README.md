@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Davi (oh, really?)</h3>
+<h3 align="left">Hi 👋, I'm Davi</h3>
 
 > "You miss 100% of the shots you don't take. -Wayne Gretzky" -Michael Scott
 
